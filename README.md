@@ -23,10 +23,10 @@ Abaixo estão as métricas automáticas do meu perfil que mostram o meu foco em 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MatheusDantasG&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="150px" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusDantasG&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="150px" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDantasG&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="150px" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusDantasG&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="150px" />
     </td>
   </tr>
 </table>
