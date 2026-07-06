@@ -33,6 +33,6 @@ Abaixo estão as métricas automáticas do meu perfil que mostram o meu foco em 
 
 ---
 
-### 📬 Vamos nos conectar?
+### 📬 Contato
 
 - **LinkedIn:** https://www.linkedin.com/in/mdantasg/
